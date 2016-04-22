@@ -48,6 +48,7 @@ void go_from_dir()
 	cut_path(local_dir);
 }
 
+
 void go_to_dir(const char *name)
 {
 	char dir[PATH_MAX + 1];
